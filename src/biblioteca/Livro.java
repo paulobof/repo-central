@@ -5,4 +5,12 @@ public class Livro {
 	private String numPaginas;
 	private String autor;
 
+	
+	public void emprestar() {
+		
+	}
+	
+	public void devolver() {
+		
+	}
 }
